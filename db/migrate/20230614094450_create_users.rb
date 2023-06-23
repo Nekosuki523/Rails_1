@@ -7,7 +7,7 @@ class CreateUsers < ActiveRecord::Migration[6.1]
       t.string :allday
       tboolean :checkbox
       t.string :memo
-      
+       
       t.timestamps
     end
   end

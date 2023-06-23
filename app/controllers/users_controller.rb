@@ -47,5 +47,5 @@ class UsersController < ApplicationController
      flash[:notice] = "予定を削除しました"
      redirect_to :users
    end
-       
+        
 end

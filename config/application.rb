@@ -24,3 +24,4 @@ module Schedule
   config.time_zone = 'Tokyo'
   end
 end
+ 
